@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "142514922588",
+    "project_id": "achooapi",
+    "storage_bucket": "achooapi.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:142514922588:android:2e481d2350a0c920ce3299",
+        "android_client_info": {
+          "package_name": "com.achoo.api.achoo_api"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "142514922588-l7p09hvq2ni14mhmdij69t6q24qjsk9o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTiH3PFKrMdk8b0Qfz-41KIOVKBWOfWx8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "142514922588-l7p09hvq2ni14mhmdij69t6q24qjsk9o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
